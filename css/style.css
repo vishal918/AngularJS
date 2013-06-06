@@ -1,0 +1,103 @@
+body
+{
+	font-size: 11px;
+	background-image: url('../images/image/background.png');
+}
+header
+{
+	border-bottom: 1px dotted grey;
+}
+.container
+{
+	background: white;
+	width: 95%;
+	margin-left: 0px auto;
+	margin-right: 0px auto;
+	margin-top: 30px;
+	border-radius: 15px;
+}
+
+.page-title-icon 
+{
+    margin-left: 20px;
+    font-size: 40px;
+    color: rgb(204, 204, 204);
+    vertical-align: middle;
+}
+.brand
+{
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+body
+{
+	font-size: 11px;
+}
+#brand
+{
+	color: rgb(200,30,35);
+	font-style: italic;
+	margin-left: 18%;
+	margin-top: 5px;
+}
+header
+{
+	height: 44px;
+	border-bottom: 3px solid #DDD;
+	box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.1), 0px 1px 0px 2px rgba(0, 0, 0, 0.1);
+}
+
+.searchme
+{
+	margin-top: 10px;
+}
+#searchbar
+{
+	position: absolute;
+	left: 86%;
+	top: 4%;
+}
+
+
+
+.thumbnail
+{
+	width: 250px;
+	min-height: 250px;
+	height: auto;
+	margin: 15px;
+	padding: 10px;
+	background-image: url('../images/image/camera-frame-2_03.png');
+	float: left;
+}
+.col-span
+{
+	margin-left: 6%;
+	margin-top: 20px;
+}
+.main-data
+{
+	margin: 0px;
+	padding: 10px;
+	margin-right: 20px;
+}
+.thumbnail img
+{
+	border: 1px solid #ccc;
+}
+.thumbnail img:hover
+{
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+
+.img-data
+{
+	font-size: 13px;
+	word-wrap: break-word;
+	color: rgb(51,51,51);
+	padding: 5px;
+}
+
